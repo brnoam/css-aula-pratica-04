@@ -1,0 +1,57 @@
+.b1{
+    position: absolute;
+    top: 86%;
+    background-color: brown;
+    border: 5px solid brown;
+    height: 50px;
+    width: 1580px;
+    left: 0%;
+    
+ 
+}
+.b2{
+    position: absolute;
+    top: 40%;
+    background-color: green;
+    border: 5px solid green;
+    height: 170px;
+    width: 250px;
+    left: 26%;
+}
+.b3{
+    position: absolute;
+    top: 45%;
+    background-color: rgb(82, 7, 112);
+    border: 5px solid rgb(88, 3, 105);
+    height: 140px;
+    width: 230px;
+    left: 60%;
+}
+.b4{
+    position: absolute;
+    top: 0%;
+    background-color: rgb(110, 116, 110);
+    border: 5px solid rgb(109, 124, 115);
+    height: 150px;
+    width: 750px;
+    left: 13%;
+}
+.b5{
+    position: absolute;
+    top: 0%;
+    background-color: rgb(255, 0, 0);
+    border: 5px solid rgb(255, 30, 1);
+    height: 150px;
+    width: 300px;
+    left: 35%;
+}
+.b6{
+    position: absolute;
+    top: 22%;
+    background-color: rgb(25, 0, 255);
+    border: 5px solid rgb(47, 0, 255);
+    height: 45px;
+    width: 300px;
+    left: 35%;
+
+}
